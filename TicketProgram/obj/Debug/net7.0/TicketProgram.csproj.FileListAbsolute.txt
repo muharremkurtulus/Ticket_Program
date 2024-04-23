@@ -1,0 +1,15 @@
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/bin/Debug/net7.0/TicketProgram
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/bin/Debug/net7.0/TicketProgram.deps.json
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/bin/Debug/net7.0/TicketProgram.runtimeconfig.json
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/bin/Debug/net7.0/TicketProgram.dll
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/bin/Debug/net7.0/TicketProgram.pdb
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.csproj.AssemblyReference.cache
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.AssemblyInfoInputs.cache
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.AssemblyInfo.cs
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.csproj.CoreCompileInputs.cache
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.dll
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/refint/TicketProgram.dll
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.pdb
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/TicketProgram.genruntimeconfig.cache
+/Users/muharremkurtulus/Projects/TicketProgram/TicketProgram/obj/Debug/net7.0/ref/TicketProgram.dll
